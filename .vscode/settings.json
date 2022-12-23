@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "dbprodmysql01vm.ad.lepida.it",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "dbprodmysql01vm.ad.lepida.it",
+            "username": "root",
+            "password": "L3p1da82!2",
+            "database": "provagp"
+        }
+    ]
+}
