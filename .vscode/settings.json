@@ -13,5 +13,6 @@
             "password": "L3p1da82!2",
             "database": "provagp"
         }
-    ]
+    ],
+    "terminal.integrated.copyOnSelection": true
 }
